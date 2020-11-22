@@ -24,5 +24,5 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(roomba_robot)
+add_executable(roomba_robot src/walker.cpp src/main.cpp)
 target_link_libraries(roomba_robot ${catkin_LIBRARIES})
