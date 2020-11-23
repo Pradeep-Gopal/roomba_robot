@@ -7,7 +7,7 @@
 Pradeep Gopal
 
 ## Overview
-This is a simulation of the famous vacuum cleaner robot in Gazebo using Turtlebot3, C++ and ROS
+This is a simulation of the famous vacuum cleaner robot in Gazebo using Turtlebot3 - burger, C++ and ROS
 
 ## Dependencies
 
@@ -30,6 +30,24 @@ git clone --recursive https://github.com/Pradeep-Gopal/roomba_robot
   catkin_make
 
 ```
+
+## Setting the turtlebot3 model to burger
+
+Open a new terminal and type the following
+```
+sudo gedit ~/.bashrc
+```
+Add the following line to the bashrc file
+
+```
+export TURTLEBOT3_MODEL=burger
+```
+
+Open a new terminal and type the following
+```
+source ~/.bashrc
+```
+
 
 ## Steps to run the roomba robot without rosbag recording
 
