@@ -1,0 +1,11 @@
+Run this command in the terminal:
+
+cpplint $( find . -name \*.hpp -or -name \*.cpp | grep -vE -e "^./build/" -e "^./vendor/" -e "^./docs/" -e "^./results" )
+
+Output:
+
+Done processing ./src/main.cpp
+Done processing ./src/walker.cpp
+
+
+

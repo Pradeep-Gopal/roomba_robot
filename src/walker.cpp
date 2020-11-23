@@ -42,7 +42,7 @@ Walker::Walker() {
     > ("cmd_vel", 1000);
     // Subscribing to LaserScan topic to detect obstacles
     subscribeData = nh.subscribe<sensor_msgs::LaserScan> ("/scan", 1000,
-                                                          &Walker::laserData, this);
+                                              &Walker::laserData, this);
     // Defining the initial linear and angular velocities
     msg.linear.x = 0.0;
     msg.linear.y = 0.0;
@@ -103,7 +103,8 @@ bool Walker::obstaclePresence() {
 void Walker::runRobot() {
     // Check if obstacle is present nearby
     if (obstaclePresence() == true) {
-        ROS_INFO_STREAM("Obstacle is present and turning the robot to avoid collision");
+        ROS_INFO_STREAM("Obstacle is present and "
+                        "turning the robot to avoid collision");
         // Stop the robot
         msg.linear.x = 0.0;
         // Turn the robot
