@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89c1cd8-2599-43b9-a68f-a5a4da08b901" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/include/walker/walker.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/walker/walker.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/urdf/common_properties.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/urdf/common_properties.xacro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urdf/turtlebot3_burger.gazebo.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/urdf/turtlebot3_burger.gazebo.xacro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urdf/turtlebot3_burger.urdf.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/urdf/turtlebot3_burger.urdf.xacro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606083783488</updated>
       <workItem from="1606083784592" duration="6693000" />
-      <workItem from="1606145939869" duration="596000" />
+      <workItem from="1606145939869" duration="1066000" />
     </task>
     <servers />
   </component>
