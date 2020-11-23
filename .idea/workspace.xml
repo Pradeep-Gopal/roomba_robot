@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89c1cd8-2599-43b9-a68f-a5a4da08b901" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/include/walker/walker.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/walker/walker.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urdf/common_properties.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/urdf/common_properties.xacro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch/roomba.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/roomba.launch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../turtlebot_tutorials" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -51,11 +51,17 @@
       <option name="presentableId" value="Default" />
       <updated>1606083783488</updated>
       <workItem from="1606083784592" duration="6693000" />
-      <workItem from="1606145939869" duration="1066000" />
+      <workItem from="1606145939869" duration="1973000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1606147362434">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1606147362434" />
   </component>
 </project>
