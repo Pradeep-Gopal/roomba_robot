@@ -82,7 +82,8 @@ The info on rosbag file can be seen using the following command
 cd ~/catkin_ws/src/beginner_tutorials/results
 rosbag info roomba_rostopics_bag_2020-11-23-11-24-01.bag
 ```
-<p>Following image shows the rosbag info
+<p>Following image shows the rosbag info</p>
+<p align="center">
 <img src="results/rosbag_info.png" width="70%" height="70%">
 </p>
 
